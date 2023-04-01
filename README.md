@@ -61,3 +61,17 @@ font-weight:700;
 cursor:pointer;
 font-family:'Ubuntu',sans-serif
 }
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
